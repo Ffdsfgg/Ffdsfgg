@@ -4,10 +4,10 @@
 # Hi there! 👋 I'm chenmouren
 
 ### Full-Stack Developer
-
+<img src="https://komarev.com/ghpvc/?username=Ffdsfgg&color=BD93F9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Building+awesome+web+applications;Open+to+new+opportunities" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Ffdsfgg&color=BD93F9&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
